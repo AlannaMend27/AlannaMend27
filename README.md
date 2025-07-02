@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alanna!
+# 👋 Hi there
 👩🏻‍💻 Digital Design and Development technician.<br/>
 👩🏻‍🎓 Currently studying [Computer Engineering](https://www.tec.ac.cr/ingenieria-computadores) at Tecnológico de Costa Rica.<br/>
 🌷 I enjoy turning ideas into interactive designs, coding with purpose, and making tech a little more beautiful.<br/>
